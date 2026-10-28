@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Jellystat is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://github.com/CyferShepard/Jellystat
+Jellystat provides a free and open‑source analytics platform for Jellyfin media servers, offering detailed statistics on library usage, user activity, watch history, and session monitoring. The service includes a web dashboard with visualizations of language distribution, referrers, and session trends, and it can be self‑hosted with a modern architecture using Node.js and optional PostgreSQL backend. It aims to give Jellyfin administrators clear insights into how their media libraries are consumed.
+
+**Areas:** Company · Analytics · OpenSource · Media · Jellyfin
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://jellystat.com)
+- [Documentation](https://jellystat.com/docs)
+- [Getting started](https://jellystat.com/new-account)
+- [Terms of service](https://jellystat.com/tos)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/jellystat/](https://apis.io/providers/jellystat/).
